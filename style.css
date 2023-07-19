@@ -1,0 +1,31 @@
+body {
+    padding: 20px 50px;
+    background-color: rgb(1, 211, 219);
+}
+
+.formdesign {
+    font-size: 25px;
+
+}
+
+.formdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid rgb(0, 0, 0)255, 255, 255);
+    margin: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.formerror {
+    color: rgb(24, 44, 123);
+    font-size: medium;
+}
+
+.but {
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    font-size: 22px;
+    margin: 30px 0px;
+}
